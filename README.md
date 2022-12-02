@@ -1,4 +1,9 @@
 # HuggingFace-learning
+
+Projects:
+1.Transformer-pipeline:
+    make a classifier with pipeline function of transformer library for sentiment analysis 
+    
 I put some links and colabs that I have done for learning.</br>
 
 Course address:</br>
