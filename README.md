@@ -1,8 +1,13 @@
 # HuggingFace-learning
 
-Projects:
-1.Transformer-pipeline:
-    make a classifier with pipeline function of transformer library for sentiment analysis 
+Projects:</br>
+1.Transformer-pipeline:</br>
+    make a classifier with pipeline function of transformer library for sentiment analysis, Zero-shot classification, Text generation. </br>
+    some work can done by :</br>
+        https://huggingface.co/docs/transformers/main_classes/pipelines</br>
+    here is some models here which we can use for our task:</br>
+        https://huggingface.co/models</br>
+        
     
 I put some links and colabs that I have done for learning.</br>
 
