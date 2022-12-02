@@ -8,8 +8,12 @@ Projects:</br>
     Text generation,</br>
     Mask filling,</br>
     Named entity recognition, </br>
-    Part of Speech Tagging (POS)</br>
-    Question answering</br>
+    Part of Speech Tagging, (POS)</br>
+    Question answering,</br>
+    Summarization,</br>
+    Translation :</br>
+        french to english</br>
+        english to farsi</br>
     
     some work can done by :</br>
         https://huggingface.co/docs/transformers/main_classes/pipelines</br>
