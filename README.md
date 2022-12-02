@@ -3,6 +3,7 @@ I put some links and colabs that I have done for learning.</br>
 
 Course address:</br>
     https://huggingface.co/course/chapter1/1</br>
+    https://www.learnpytorch.io/00_pytorch_fundamentals/</br>
     
 
 Introductory deep learning course: </br>
