@@ -2,13 +2,22 @@
 
 Projects:</br>
 1.  Transformer-pipeline:</br>
-    make a classifier with pipeline function of transformer library for sentiment analysis, Zero-shot classification, Text generation, Mask filling. </br>
+    make a classifier with pipeline function of transformer library for </br>
+    sentiment analysis,</br>
+    Zero-shot classification,</br>
+    Text generation,</br>
+    Mask filling,</br>
+    Named entity recognition. </br>
+    
+    
     some work can done by :</br>
         https://huggingface.co/docs/transformers/main_classes/pipelines</br>
     here is some models here which we can use for our task:</br>
         https://huggingface.co/models</br>
     three part of huggingface (code Hub is important *)</br>
         https://huggingface.co/welcome</br>
+  1.4. fill masking:
+        Model: bert-multilingual
         
 2.  Automatic Speech Recognition (ASR):</br>
         Model: Wav2vec2-facebook</br>
