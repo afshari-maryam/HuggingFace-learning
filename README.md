@@ -7,8 +7,9 @@ Projects:</br>
     Zero-shot classification,</br>
     Text generation,</br>
     Mask filling,</br>
-    Named entity recognition. </br>
-    
+    Named entity recognition, </br>
+    Part of Speech Tagging (POS)</br>
+    Question answering</br>
     
     some work can done by :</br>
         https://huggingface.co/docs/transformers/main_classes/pipelines</br>
