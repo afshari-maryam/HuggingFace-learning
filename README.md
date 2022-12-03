@@ -1,7 +1,7 @@
 # HuggingFace-learning
 
 Projects:</br>
-1.  Transformer-pipeline:</br>
+1.  A)Transformer-pipeline:</br>
     make a classifier with pipeline function of transformer library for </br>
     sentiment analysis,</br>
     Zero-shot classification,</br>
@@ -24,9 +24,13 @@ Projects:</br>
   1.4. fill masking:
         Model: bert-multilingual
         
-2.  Automatic Speech Recognition (ASR):</br>
+  B)Automatic Speech Recognition (ASR):</br>
         Model: Wav2vec2-facebook</br>
         Dataset: Librispeech</br>
+        
+        
+2.  Chapter2-huggingface-practice
+
     
 I put some links and colabs that I have done for learning.</br>
 
