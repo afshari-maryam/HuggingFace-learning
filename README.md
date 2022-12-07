@@ -24,9 +24,9 @@ Projects:</br>
   1.4. fill masking:
         Model: bert-multilingual
         
-  B)Automatic Speech Recognition (ASR):</br>
-        Model: Wav2vec2-facebook</br>
-        Dataset: Librispeech</br>
+        B)Automatic Speech Recognition (ASR):</br>
+            Model: Wav2vec2-facebook</br>
+            Dataset: Librispeech</br>
         
         
 2.  Chapter2-huggingface-practice :</br>
@@ -39,7 +39,8 @@ Projects:</br>
         Learned the limitations of input IDs, and learned about attention masks.</br>
         Played around with versatile and configurable tokenizer methods.</br>
   
-
+3.  Chapter3-huggingface-practice :</br>
+       In Chapter 2 we explored how to use tokenizers and pretrained models to make predictions. But what if you want to fine-tune a pretrained model for your own             dataset?
     
 I put some links and colabs that I have done for learning.</br>
 
