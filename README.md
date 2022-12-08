@@ -42,6 +42,8 @@ Projects:</br>
 3.  Chapter3-huggingface-practice :</br>
        In Chapter 2 we explored how to use tokenizers and pretrained models to make predictions. But what if you want to fine-tune a pretrained model for your own             dataset?
     
+4.  Answer2 is the right answer.
+
 I put some links and colabs that I have done for learning.</br>
 
 Course address:</br>
